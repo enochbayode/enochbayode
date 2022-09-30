@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @enochbayode
 - 👀 I’m interested in tech
 - 🌱 I’m a Node Js developer 
-- 💡 I'm a Python developer
+- 💡  I'm a Python developer
 - 💞️ I’m looking to collaborate on project that involve backend development with Node Js 
-- 📫 How to reach me bayodeenoch@gmail.com
+- 📫 You can reach via my email: bayodeenoch@gmail.com
 
 <!---
 enochbayode/enochbayode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
