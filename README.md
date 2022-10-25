@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m a Node Js developer 
 - 💡  I'm a Python developer
-- 💞️ I’m looking to collaborate on project that involve backend development with Node Js 
+- 💞️ I’m looking to collaborate on project that involve Data structure & Algorithms, web development with Node Js
 - 📫 You can reach via my email: bayodeenoch@gmail.com
 
 <!---
