@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enochbayode
-- 👀 I’m interested in tech
+- 👀 I’m Software Engineer 
 - 🌱 I’m a Node Js developer 
 - 💡  I'm a Python developer
 - 💞️ I’m looking to collaborate on project that involve Data structure & Algorithms, web development with Node Js
