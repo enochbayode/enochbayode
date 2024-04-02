@@ -1,10 +1,10 @@
 # 💫 About Me:
-"I'm currently immersed in the realm of Machine Learning Engineering, utilizing Python and various frameworks like SciketLearn, and TensorFlow.
+I'm currently immersed in the realm of Machine Learning Engineering, utilizing Python and various frameworks like SciketLearn, and TensorFlow.
 I'm eager to collaborate on projects focused on deploying machine learning models in production environments.
 Currently, I'm seeking guidance on optimizing model performance and implementing advanced machine learning algorithms.
 I'm delving into the intricacies of designing algorithms to preprocess and clean large datasets efficiently.
 Feel free to reach out to me for discussions on machine learning model architectures, deployment strategies, or any aspect of AI development.
-On a lighter note, I'm an avid gamer and have a knack for creating visually appealing graphics."
+On a lighter note, I'm an avid gamer and have a knack for creating visually appealing graphics.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bayode Enoch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enochbayode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bayode Enoch) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Bayode Enoch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BayodeEnoch ) 
