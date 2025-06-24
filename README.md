@@ -1,10 +1,13 @@
 # 💫 About Me:
-I'm currently immersed in the realm of Machine Learning Engineering, utilizing Python and various frameworks like SciketLearn, and TensorFlow.
-I'm eager to collaborate on projects focused on deploying machine learning models in production environments.
-Currently, I'm seeking guidance on optimizing model performance and implementing advanced machine learning algorithms.
-I'm delving into the intricacies of designing algorithms to preprocess and clean large datasets efficiently.
-Feel free to reach out to me for discussions on machine learning model architectures, deployment strategies, or any aspect of AI development.
-On a lighter note, I'm an avid gamer and have a knack for creating visually appealing graphics.
+I’m a Machine Learning Engineer with 4+ years of experience building real-world AI solutions—especially in Natural Language Processing using Large Language Models.
+
+My recent work includes developing an automatic AI note-taking that support multi-tenancy, a multi-tenant RAG chatbot and a dynamic AI assistant for a Telehealth startup. These solutions allowed multiple organizations to deploy secure, context-aware chat experiences powered by GPT, Pinecone, and PostgreSQL—delivered through scalable APIs built with FASTAPI and hosted on google GCP.
+
+I focus on more than just models—I care about product thinking, user experience, and building systems that solve real problems. My backend skills enable me to take ML projects from concept to deployment, ensuring they’re usable by real teams via well-designed APIs.
+
+I'm especially interested in companies that apply LLMs and AI automation to real-world tasks across industries, and I'm always open to roles that combine research, engineering, and product development. I also have a growing interest in computer vision and cross-modal AI systems.
+
+Let’s build tools that do real work.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bayode Enoch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enochbayode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bayode Enoch) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Bayode Enoch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BayodeEnoch ) 
@@ -21,6 +24,8 @@ Machine Learning Frameworks:
 
 Development Environment:
 - Jupyter Notebook
+- Google Colab
+- Visual Studio Code
 
 Data Manipulation and Analysis:
 - Pandas
@@ -45,8 +50,8 @@ Visualization:
 - Seaborn
 
 Web Frameworks:
-- Flask
 - FastAPI
+- Flask
 
 Machine Learning Lifecycle Management:
 - MLflow
