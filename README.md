@@ -1,13 +1,31 @@
 # 💫 About Me:
-I’m a Machine Learning Engineer with 4+ years of experience building real-world AI solutions—especially in Natural Language Processing using Large Language Models.
-
-My recent work includes developing an automatic AI note-taking that support multi-tenancy, a multi-tenant RAG chatbot and a dynamic AI assistant for a Telehealth startup. These solutions allowed multiple organizations to deploy secure, context-aware chat experiences powered by GPT, Pinecone, and PostgreSQL—delivered through scalable APIs built with FASTAPI and hosted on google GCP.
-
-I focus on more than just models—I care about product thinking, user experience, and building systems that solve real problems. My backend skills enable me to take ML projects from concept to deployment, ensuring they’re usable by real teams via well-designed APIs.
-
-I'm especially interested in companies that apply LLMs and AI automation to real-world tasks across industries, and I'm always open to roles that combine research, engineering, and product development. I also have a growing interest in computer vision and cross-modal AI systems.
-
-Let’s build tools that do real work.
+I design and deploy AI systems that move businesses from manual operations to intelligent, automated workflows.
+ 
+Over the past few years, I’ve built production-grade AI solutions across healthcare, energy, and SaaS—helping teams reduce operational time, improve decision-making, and scale without increasing headcount.
+ 
+Here’s the kind of work I do:
+ 
+1. Built a real-time predictive monitoring system that reduced operational oversight time by 80% and enabled early risk detection 
+2. Developed AI-powered assistants and RAG systems that deliver accurate, context-aware responses across multiple organizations 
+3. Engineered automation pipelines that handle data ingestion, model retraining, and real-time predictions without manual intervention 
+4. Created AI note-taking and summarization systems used in healthcare workflows to capture and structure critical insights 
+ 
+My strength is not just building models — it’s connecting AI to real business systems:
+ APIs, databases, cloud infrastructure, and user workflows.
+ 
+Tech I work with:
+ Python, FastAPI, PostgreSQL, Pinecone, Azure ML, GCP, AWS, n8n
+ 
+Beyond engineering, I lead Cratadel — a tech community where I’ve trained and mentored individuals in AI, and I host the ThinkAfrica Podcast, where I discuss how AI can solve practical problems in emerging markets in Africa.
+ 
+If you’re looking to:
+ 
+ Automate repetitive operations 
+ Build AI-powered products 
+ Deploy LLM or RAG systems into production 
+ Turn your data into decision systems 
+ 
+Let’s talk.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Bayode Enoch) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enochbayode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bayode Enoch) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Bayode Enoch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BayodeEnoch ) 
