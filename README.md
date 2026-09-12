@@ -18,18 +18,36 @@ When I'm not building pipelines or fine-tuning prompts, you'll find me hosting t
 
 ### 🔗 Portfolio & Links
 
-- 💼 Upwork — https://www.upwork.com/freelancers/~01b2645627b75b6bbe
-- 🔗 LinkedIn — https://linkedin.com/enochbayode
-- 🐙 GitHub — https://github.com/enochbayode
-- 📊 Kaggle — https://kaggle.com/enochbayode
-- 🏆 Zindi — https://zindi.africa/users/EnochBayode
-- ✍️ Medium — https://medium.com/@enochbayode
-- 🎙️ ThinkAfrica Podcast — 
-- 🌍 Cratadel Innovation — 
-- 📧 Email — bayodeenoch@gmail.com
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b2645627b75b6bbe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/enochbayode)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enochbayode)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/enochbayode)
+[![Zindi](https://img.shields.io/badge/Zindi-6A3AC2?style=for-the-badge&logoColor=white)](https://zindi.africa/users/EnochBayode)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@enochbayode)
+[![Podcast](https://img.shields.io/badge/ThinkAfrica_Podcast-FF6600?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/playlist?list=PLdhXRgR98oyk)
+[![Website](https://img.shields.io/badge/Cratadel_Innovation-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.youtube.com/@Cratadel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayodeenoch@gmail.com)
+
+> Replace the `#` links above with your Upwork profile, podcast, and Cratadel site URLs once you have them handy.
 
 ---
 
 ### 🧰 Tech Stack
 
-`Python` `SQL` `JavaScript` `FastAPI` `n8n` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `NLP` `Pinecone` `Docker` `AWS` `GCP` `Azure` `Git`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
