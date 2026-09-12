@@ -10,13 +10,11 @@
 [![Website](https://img.shields.io/badge/Cratadel_Innovation-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.youtube.com/@Cratadel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayodeenoch@gmail.com)
 
-> Replace the `#` links above with your Upwork profile, podcast, and Cratadel site URLs once you have them handy.
-
 ---
 
 ### Hi, I'm Enoch Bayode 👋
 
-**AI Engineer | LLM Systems, RAG & Intelligent Automation**
+**AI Engineer | SaaS Builder | AI Automation Expert**
 
 I am an AI Engineer with hands-on experience architecting production-grade AI systems — from multi-tenant RAG chatbots and multi-lingual TTS backends to real-time predictive monitoring pipelines. I specialize in bridging applied machine learning (PyTorch, Scikit-learn, NLP) with scalable backend engineering (FastAPI, n8n, Azure/AWS/GCP) to ship AI products that hold up in production.
 
