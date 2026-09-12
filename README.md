@@ -1,32 +1,32 @@
-### 🔗 Portfolio & Links
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A202C&height=120&section=header&text=Enoch%20Bayode&fontSize=40&fontColor=ffffff" />
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b2645627b75b6bbe)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enochbayode)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enochbayode)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/enochbayode)
-[![Zindi](https://img.shields.io/badge/Zindi-6A3AC2?style=for-the-badge&logoColor=white)](https://zindi.africa/users/EnochBayode)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@enochbayode)
-[![Podcast](https://img.shields.io/badge/ThinkAfrica_Podcast-FF6600?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/playlist?list=PLdhXRgR98oyk)
-[![Website](https://img.shields.io/badge/Cratadel_Innovation-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.youtube.com/@Cratadel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayodeenoch@gmail.com)
+  <p align="center">
+    <b>AI Engineer | LLM Systems, RAG & Intelligent Automation</b>
+  </p>
+
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=chrome&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/enochbayode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/enochbayode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://kaggle.com/enochbayode"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+    <a href="https://zindi.africa/users/EnochBayode"><img src="https://img.shields.io/badge/Zindi-6A3AC2?style=for-the-badge&logoColor=white" /></a>
+    <a href="https://medium.com/@enochbayode"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="mailto:bayodeenoch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
 ---
 
-### Hi, I'm Enoch Bayode 👋
+### 💻 Executive Summary
 
-**AI Engineer | SaaS Builder | AI Automation Expert**
+I am an **AI Engineer** with hands-on experience architecting production-grade AI systems — from multi-tenant RAG chatbots and multi-lingual TTS backends to real-time predictive monitoring pipelines. I specialize in bridging LLM engineering (PyTorch, TensorFlow, Transformers, LangChain, LangGraph) with scalable backend infrastructure (FastAPI, Flask, PostgreSQL, MongoDB, Pinecone) to ship AI products that hold up in production.
 
-I am an AI Engineer with hands-on experience architecting production-grade AI systems — from multi-tenant RAG chatbots and multi-lingual TTS backends to real-time predictive monitoring pipelines. I specialize in bridging applied machine learning (PyTorch, Scikit-learn, NLP) with scalable backend engineering (FastAPI, n8n, Azure/AWS/GCP) to ship AI products that hold up in production.
-
-🚀 **Currently Building:** Real-time predictive monitoring workflows and rolling-window analytics engines that turn raw sensor data into early-warning intelligence.
-
-📈 **Impact Metric:** Automated deviation-detection workflows that cut operational monitoring time by 80%, and CI/CD pipelines that shipped model updates 40% faster.
-
-⚡ **Core Philosophy:** Reliable, fault-tolerant systems first — async architecture, graceful failover, and clean API design that scales beyond the demo.
-
-🛠️ **Deepening Expertise:** Advancing further into applied NLP, vector search (Pinecone), and multi-agent automation, while mentoring 30+ early-career AI engineers across Africa through Cratadel, Data Science Nigeria, and TechUp Africa.
-
-When I'm not building pipelines or fine-tuning prompts, you'll find me hosting the **ThinkAfrica Podcast**, exploring AI-driven solutions for African innovation.
+* 🚀 **Currently Scaling:** Real-time predictive monitoring workflows and rolling-window analytics engines that turn raw sensor data into early-warning intelligence.
+* 📈 **Performance Metric:** Automated deviation-detection workflows that cut operational monitoring time by **80%**, and CI/CD pipelines that shipped model updates **40% faster**.
+* ⚡ **Core Philosophy:** Reliable, fault-tolerant systems first — async architecture, graceful failover, and clean API design that scales beyond the demo.
+* 🛠️ **Deepening Expertise:** Advancing further into multi-agent automation and vector search, while mentoring 30+ early-career AI engineers across Africa through **Cratadel**, **Data Science Nigeria**, and **TechUp Africa**.
 
 ---
 
@@ -42,7 +42,6 @@ When I'm not building pipelines or fine-tuning prompts, you'll find me hosting t
 ![Vector Embedding](https://img.shields.io/badge/Vector_Embedding-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
 
 **🔹 Backend & APIs**
 
@@ -70,3 +69,19 @@ When I'm not building pipelines or fine-tuning prompts, you'll find me hosting t
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS_Architecture-2E8555?style=for-the-badge&logo=cloudsmith&logoColor=white)
+
+---
+
+### 📊 GitHub Engineering Metrics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enochbayode&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enochbayode&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Streak" />
+</p>
+
+---
+
+<div align="center">
+  <p><i>When I'm not building pipelines or fine-tuning prompts, you'll find me hosting the ThinkAfrica Podcast, exploring AI-driven solutions for African innovation. 🎙️</i></p>
+  <sub>Let's build something exceptional. Drop me a line via LinkedIn or Email above.</sub>
+</div>
