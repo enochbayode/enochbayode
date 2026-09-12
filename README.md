@@ -6,8 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=chrome&logoColor=white" /></a>
-    <a href="#"><img src="https://www.upwork.com/freelancers/~01b2645627b75b6bbe?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+    <a href="https://www.upwork.com/freelancers/~01b2645627b75b6bbe"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
     <a href="https://linkedin.com/in/enochbayode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/enochbayode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://kaggle.com/enochbayode"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
