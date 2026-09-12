@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="#"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=chrome&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+    <a href="#"><img src="https://www.upwork.com/freelancers/~01b2645627b75b6bbe?style=for-the-badge&logo=upwork&logoColor=white" /></a>
     <a href="https://linkedin.com/in/enochbayode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/enochbayode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://kaggle.com/enochbayode"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
@@ -38,7 +38,7 @@ I am an **AI Engineer** with hands-on experience architecting production-grade A
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformer](https://img.shields.io/badge/Transformer-FFB000?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Vector Embedding](https://img.shields.io/badge/Vector_Embedding-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -48,7 +48,7 @@ I am an **AI Engineer** with hands-on experience architecting production-grade A
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **🔹 Databases & Vector Stores**
@@ -69,6 +69,7 @@ I am an **AI Engineer** with hands-on experience architecting production-grade A
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![SaaS](https://img.shields.io/badge/SaaS_Architecture-2E8555?style=for-the-badge&logo=cloudsmith&logoColor=white)
+
 
 ---
 
