@@ -32,43 +32,28 @@ I am an **AI Engineer** with hands-on experience architecting production-grade A
 
 ### 🛠️ Technical Ecosystem
 
-**🔹 AI / ML & LLM Engineering**
+#### 🔹 AI / ML & LLM Engineering
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Transformer](https://img.shields.io/badge/Transformer-FFB000?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Vector Embedding](https://img.shields.io/badge/Vector_Embedding-6E56CF?style=for-the-badge&logo=databricks&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**🔹 Backend & APIs**
+#### 🔹 Backend & APIs
+<img src="https://skillicons.dev/icons?i=py,fastapi,flask,cs" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+#### 🔹 Databases & Vector Stores
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
-**🔹 Databases & Vector Stores**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 ![Vector Database](https://img.shields.io/badge/Vector_Database-6E56CF?style=for-the-badge&logoColor=white)
 
-**🔹 Cloud, DevOps & Systems**
+#### 🔹 Cloud, DevOps & Systems
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Slackware](https://img.shields.io/badge/Slackware-000000?style=for-the-badge&logo=slackware&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![SaaS](https://img.shields.io/badge/SaaS_Architecture-2E8555?style=for-the-badge&logo=cloudsmith&logoColor=white)
+![Slackware](https://img.shields.io/badge/Slackware-000000?style=for-the-badge&logoColor=white)
+![SaaS](https://img.shields.io/badge/SaaS_Architecture-2E8555?style=for-the-badge&logoColor=white)
 
 
 ---
