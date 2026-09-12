@@ -1,95 +1,35 @@
-# 💫 About Me:
-I design and deploy AI systems that move businesses from manual operations to intelligent, automated workflows.
- 
-Over the past few years, I’ve built production-grade AI solutions across healthcare, energy, and SaaS—helping teams reduce operational time, improve decision-making, and scale without increasing headcount.
- 
-Here’s the kind of work I do:
- 
-1. Built a real-time predictive monitoring system that reduced operational oversight time by 80% and enabled early risk detection 
-2. Developed AI-powered assistants and RAG systems that deliver accurate, context-aware responses across multiple organizations 
-3. Engineered automation pipelines that handle data ingestion, model retraining, and real-time predictions without manual intervention 
-4. Created AI note-taking and summarization systems used in healthcare workflows to capture and structure critical insights 
- 
-My strength is not just building models — it’s connecting AI to real business systems:
- APIs, databases, cloud infrastructure, and user workflows.
- 
-Tech I work with:
- Python, FastAPI, PostgreSQL, Pinecone, Azure ML, GCP, AWS, n8n
- 
-Beyond engineering, I lead Cratadel — a tech community where I’ve trained and mentored individuals in AI, and I host the ThinkAfrica Podcast, where I discuss how AI can solve practical problems in emerging markets in Africa.
- 
-If you’re looking to:
- 
- Automate repetitive operations 
- Build AI-powered products 
- Deploy LLM or RAG systems into production 
- Turn your data into decision systems 
- 
-Let’s talk.
+### Hi, I'm Enoch Bayode 👋
 
-# 💻 Tech Stack:
-Sure, here's a categorized list of tools commonly used by ML engineers:
+**AI Engineer | LLM Systems, RAG & Intelligent Automation**
 
-Programming Languages:
-- Python
+I am an AI Engineer with hands-on experience architecting production-grade AI systems — from multi-tenant RAG chatbots and multi-lingual TTS backends to real-time predictive monitoring pipelines. I specialize in bridging applied machine learning (PyTorch, Scikit-learn, NLP) with scalable backend engineering (FastAPI, n8n, Azure/AWS/GCP) to ship AI products that hold up in production.
 
-Machine Learning Frameworks:
-- TensorFlow
-- Scikit-learn
+🚀 **Currently Building:** Real-time predictive monitoring workflows and rolling-window analytics engines that turn raw sensor data into early-warning intelligence.
 
-Development Environment:
-- Jupyter Notebook
-- Google Colab
-- Visual Studio Code
+📈 **Impact Metric:** Automated deviation-detection workflows that cut operational monitoring time by 80%, and CI/CD pipelines that shipped model updates 40% faster.
 
-Data Manipulation and Analysis:
-- Pandas
-- NumPy
+⚡ **Core Philosophy:** Reliable, fault-tolerant systems first — async architecture, graceful failover, and clean API design that scales beyond the demo.
 
-Containerization and Orchestration:
-- Docker
+🛠️ **Deepening Expertise:** Advancing further into applied NLP, vector search (Pinecone), and multi-agent automation, while mentoring 30+ early-career AI engineers across Africa through Cratadel, Data Science Nigeria, and TechUp Africa.
 
-Version Control:
-- Git
-
-Cloud Platforms:
-- AWS
-- Azure
-- Google Cloud Platform
-
-Big Data Processing:
-- Apache Spark
-
-Visualization:
-- Matplotlib
-- Seaborn
-
-Web Frameworks:
-- FastAPI
-- Flask
-
-Machine Learning Lifecycle Management:
-- MLflow
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=enochbayode&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=enochbayode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enochbayode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=enochbayode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=BayodeEnoch )](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+When I'm not building pipelines or fine-tuning prompts, you'll find me hosting the **ThinkAfrica Podcast**, exploring AI-driven solutions for African innovation.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=enochbayode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔗 Portfolio & Links
+
+- 💼 Upwork — https://www.upwork.com/freelancers/~01b2645627b75b6bbe
+- 🔗 LinkedIn — https://linkedin.com/enochbayode
+- 🐙 GitHub — https://github.com/enochbayode
+- 📊 Kaggle — https://kaggle.com/enochbayode
+- 🏆 Zindi — https://zindi.africa/users/EnochBayode
+- ✍️ Medium — https://medium.com/@enochbayode
+- 🎙️ ThinkAfrica Podcast — 
+- 🌍 Cratadel Innovation — 
+- 📧 Email — bayodeenoch@gmail.com
+
+---
+
+### 🧰 Tech Stack
+
+`Python` `SQL` `JavaScript` `FastAPI` `n8n` `PyTorch` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `NLP` `Pinecone` `Docker` `AWS` `GCP` `Azure` `Git`
