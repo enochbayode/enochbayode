@@ -8,7 +8,6 @@
   <p align="center">
     <a href="https://www.upwork.com/freelancers/~01b2645627b75b6bbe"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
     <a href="https://linkedin.com/in/enochbayode"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/enochbayode"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://kaggle.com/enochbayode"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
     <a href="https://zindi.africa/users/EnochBayode"><img src="https://img.shields.io/badge/Zindi-6A3AC2?style=for-the-badge&logoColor=white" /></a>
     <a href="https://medium.com/@enochbayode"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -18,18 +17,18 @@
 
 ---
 
-### 💻 Executive Summary
+### Executive Summary
 
 I am an **AI Engineer** with hands-on experience architecting production-grade AI systems — from multi-tenant RAG chatbots and multi-lingual TTS backends to real-time predictive monitoring pipelines. I specialize in bridging LLM engineering (PyTorch, TensorFlow, Transformers, LangChain, LangGraph) with scalable backend infrastructure (FastAPI, Flask, PostgreSQL, MongoDB, Pinecone) to ship AI products that hold up in production.
 
-* 🚀 **Currently Scaling:** Real-time predictive monitoring workflows and rolling-window analytics engines that turn raw sensor data into early-warning intelligence.
-* 📈 **Performance Metric:** Automated deviation-detection workflows that cut operational monitoring time by **80%**, and CI/CD pipelines that shipped model updates **40% faster**.
-* ⚡ **Core Philosophy:** Reliable, fault-tolerant systems first — async architecture, graceful failover, and clean API design that scales beyond the demo.
-* 🛠️ **Deepening Expertise:** Advancing further into multi-agent automation and vector search, while mentoring 30+ early-career AI engineers across Africa through **Cratadel**, **Data Science Nigeria**, and **TechUp Africa**.
+*  **Currently Scaling:** Real-time predictive monitoring workflows and rolling-window analytics engines that turn raw sensor data into early-warning intelligence.
+*  **Performance Metric:** Automated deviation-detection workflows that cut operational monitoring time by **80%**, and CI/CD pipelines that shipped model updates **40% faster**.
+*  **Core Philosophy:** Reliable, fault-tolerant systems first — async architecture, graceful failover, and clean API design that scales beyond the demo.
+*  **Deepening Expertise:** Advancing further into multi-agent automation and vector search, while mentoring 30+ early-career AI engineers across Africa through **Cratadel**, **Data Science Nigeria**, and **TechUp Africa**.
 
 ---
 
-### 🛠️ Technical Ecosystem
+### Technical Ecosystem
 
 #### 🔹 AI / ML & LLM Engineering
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
