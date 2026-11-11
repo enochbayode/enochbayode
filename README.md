@@ -22,7 +22,7 @@
 I am an **AI Engineer** with hands-on experience architecting production-grade AI systems — from multi-tenant RAG chatbots and multi-lingual TTS backends to real-time predictive monitoring pipelines. I specialize in bridging LLM engineering (PyTorch, TensorFlow, Transformers, LangChain, LangGraph) with scalable backend infrastructure (FastAPI, Flask, PostgreSQL, MongoDB, Pinecone) to ship AI products that hold up in production.
 
 *  **Currently Scaling:** Real-time predictive monitoring workflows and rolling-window analytics engines that turn raw sensor data into early-warning intelligence.
-*  **Performance Metric:** Automated deviation-detection workflows that cut operational monitoring time by **80%**, and CI/CD pipelines that shipped model updates **40% faster**.
+*  **Performance Metric:** Automated deviation-detection workflows that cut operational monitoring time by **83%**, and CI/CD pipelines that shipped model updates **40% faster**.
 *  **Core Philosophy:** Reliable, fault-tolerant systems first — async architecture, graceful failover, and clean API design that scales beyond the demo.
 *  **Deepening Expertise:** Advancing further into multi-agent automation and vector search, while mentoring 30+ early-career AI engineers across Africa through **Cratadel**, **Data Science Nigeria**, and **TechUp Africa**.
 
